@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a Java Project.**
 
-- 🌱 I’m currently learning **more Java!**
+- 🌱 I’m currently learning about **Databases!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/giannisgks?tab=repositories](https://github.com/giannisgks?tab=repositories)
 
