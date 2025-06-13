@@ -2,9 +2,9 @@
 <h3 align="center">an Undergraduate University Student</h3>
 
 
-- 🔭 I’m currently working on **a Java Project.**
+- 🔭 I’m currently working on **learning Machine Learning algorithms.**
 
-- 🌱 I’m currently learning about **Databases!**
+  - 🌱 I’m currently learning about **Data Analysis!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/giannisgks?tab=repositories](https://github.com/giannisgks?tab=repositories)
 
