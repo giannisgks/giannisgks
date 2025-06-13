@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **learning Machine Learning algorithms.**
 
-  - 🌱 I’m currently learning about **Data Analysis!**
+- 🌱 I’m currently learning about **Data Analysis!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/giannisgks?tab=repositories](https://github.com/giannisgks?tab=repositories)
 
