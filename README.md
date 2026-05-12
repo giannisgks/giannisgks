@@ -26,7 +26,7 @@ EDA across 50+ Athens neighborhoods · `price per sqm` & `regional tier` feature
 
 ## Research
 
-**[Enhancing Greek Sentiment Analysis via Few-Shot Learning](https://github.com/giannisgks)** — First Author  
+**[Enhancing Greek Sentiment Analysis via Few-Shot Learning]([https://github.com/giannisgks](https://github.com/giannisgks/aiai2026-sentiment))** — First Author  
 Comparative evaluation of GPT-4o-mini, GPT-4.1-mini, and GPT-5-mini on English & Greek sentiment classification.  
 Few-Shot prompting yielded **+13.1% (EN)** and **+11.7% (GR)** over Zero-Shot baselines · Greek Few-Shot peaked at **0.688 Macro-F1**, outperforming the English setup — a result attributed to Greek's morphological richness · Introduced a novel **Leakage Rate** metric to quantify Optimism Bias across languages.  
 **Accepted @ AIAI 2026** · Springer IFIP · Crete, Greece · *(publication July 2026)*  
